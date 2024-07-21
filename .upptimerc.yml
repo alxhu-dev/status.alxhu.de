@@ -3,34 +3,36 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
+  - name: alxhu-Statuspage (IPv4)
+    url: https://status.alxhu.de
+  - name: alxhu-Statuspage (IPv6)
+    url: https://status.alxhu.de
+    ipv6: true
+  - name: alxhu-YouTube (IPv4)
+    url: https://alxhu.de
+  - name: alxhu-YouTube (IPv6)
+    url: https://alxhu.de
+    ipv6: true
+  - name: alxhu-Home (IPv4)
+    url: https://home.alxhu.de
+  - name: alxhu-Home (IPv6)
+    url: https://home.alxhu.de
     ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.alxhu.de
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime (alxhu)
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Hier werden die angebotene Dienste von alxhu überwacht.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/alxhu-dev/status.alxhu.de
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
