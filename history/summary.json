@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 509,
-    "timeWeek": 509,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "time": 409,
+    "timeDay": 409,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6,
-    "timeDay": 6,
-    "timeWeek": 6,
-    "timeMonth": 6,
-    "timeYear": 6,
+    "time": 5,
+    "timeDay": 5,
+    "timeWeek": 5,
+    "timeMonth": 5,
+    "timeYear": 5,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.alxhu.de.ico",
     "slug": "alxhu-home-i-pv4",
     "status": "down",
-    "uptime": "8.09%",
-    "uptimeDay": "8.09%",
-    "uptimeWeek": "8.09%",
-    "uptimeMonth": "8.09%",
-    "uptimeYear": "8.09%",
+    "uptime": "2.97%",
+    "uptimeDay": "2.97%",
+    "uptimeWeek": "2.97%",
+    "uptimeMonth": "2.97%",
+    "uptimeYear": "2.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-21": 3
+      "2024-07-21": 9
     }
   },
   {
@@ -61,18 +61,58 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.alxhu.de.ico",
     "slug": "alxhu-home-i-pv6",
     "status": "down",
-    "uptime": "8.78%",
-    "uptimeDay": "8.78%",
-    "uptimeWeek": "8.78%",
-    "uptimeMonth": "8.78%",
-    "uptimeYear": "8.78%",
+    "uptime": "3.03%",
+    "uptimeDay": "3.03%",
+    "uptimeWeek": "3.03%",
+    "uptimeMonth": "3.03%",
+    "uptimeYear": "3.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-21": 3
+      "2024-07-21": 8
+    }
+  },
+  {
+    "name": "alxhu-Jellyfin (IPv4)",
+    "url": "https://jellyfin.home.alxhu.de",
+    "icon": "https://icons.duckduckgo.com/ip3/jellyfin.home.alxhu.de.ico",
+    "slug": "alxhu-jellyfin-i-pv4",
+    "status": "down",
+    "uptime": "42.17%",
+    "uptimeDay": "42.17%",
+    "uptimeWeek": "42.17%",
+    "uptimeMonth": "42.17%",
+    "uptimeYear": "42.17%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-21": 0
+    }
+  },
+  {
+    "name": "alxhu-Jellyfin (IPv6)",
+    "url": "https://jellyfin.home.alxhu.de",
+    "icon": "https://icons.duckduckgo.com/ip3/jellyfin.home.alxhu.de.ico",
+    "slug": "alxhu-jellyfin-i-pv6",
+    "status": "down",
+    "uptime": "79.38%",
+    "uptimeDay": "79.38%",
+    "uptimeWeek": "79.38%",
+    "uptimeMonth": "79.38%",
+    "uptimeYear": "79.38%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-21": 0
     }
   }
 ]
