@@ -8,6 +8,11 @@ sites:
   - name: alxhu-Statuspage (IPv6)
     url: https://status.alxhu.de
     ipv6: true
+  - name: alxhus PeerTube (IPv4)
+    url: https://video.alxhu.de
+  - name: alxhus PeerTube (IPv6)
+    url: https://video.alxhu.de
+    ipv6: true
 #  - name: alxhu-Home (IPv4)
 #    url: https://home.alxhu.de
 #  - name: alxhu-Home (IPv6)
